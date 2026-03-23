@@ -1,0 +1,137 @@
+{
+  "schema_version": "1.1",
+  "template_id": "dime-personal-interview-25m-playbook",
+  "template_name": "DIME 25-Min First Interview (Playbook Version)",
+  "template_type": "personal",
+  "job_titles": ["All Roles"],
+  "stage": "First Interview",
+  "description": "Short personal screening focusing on Belief, Ownership, Clarity, and basic fit based on the DIME Hiring Playbook.",
+  "sections": [
+    {
+      "section_id": "opening_story_motivation",
+      "title": "1. Story and Motivation (10 min)",
+      "questions": [
+        {
+          "prompt": "Walk me briefly through your journey.",
+          "type": "long_text",
+          "required": true
+        },
+        {
+          "prompt": "Why are you interested in DIME specifically? What matters to you about what we are building?",
+          "type": "long_text",
+          "required": true
+        },
+        {
+          "prompt": "Belief Score: Does the candidate show grounded interest in DIME and our mission?",
+          "type": "linear_scale",
+          "required": true,
+          "score_enabled": true,
+          "score_domain": "Belief",
+          "dimension_key": "Belief",
+          "min": 1,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "section_id": "ownership_behavior",
+      "title": "2. Ownership and Behavior (8 min)",
+      "questions": [
+        {
+          "prompt": "Tell me about something you owned. What exactly was your role? What went wrong, and what did you do?",
+          "type": "long_text",
+          "required": true
+        },
+        {
+          "prompt": "Tell me about a mistake. What happened, and what changed after that?",
+          "type": "long_text",
+          "required": true
+        },
+        {
+          "prompt": "Ownership Score: Do they take clear responsibility instead of shifting it?",
+          "type": "linear_scale",
+          "required": true,
+          "score_enabled": true,
+          "score_domain": "Ownership",
+          "dimension_key": "Ownership",
+          "min": 1,
+          "max": 5
+        },
+        {
+          "prompt": "Behavior Score: Do they listen well, respond thoughtfully, and speak respectfully about others?",
+          "type": "linear_scale",
+          "required": true,
+          "score_enabled": true,
+          "score_domain": "Behavior",
+          "dimension_key": "Behavior",
+          "min": 1,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "section_id": "thinking_role",
+      "title": "3. Thinking and Quick Role Check (5 min)",
+      "questions": [
+        {
+          "prompt": "What problem in your field or in healthcare do you think is most important today?",
+          "type": "long_text",
+          "required": true
+        },
+        {
+          "prompt": "Quick role signal question (ask one simple role-related question):",
+          "type": "long_text",
+          "required": true
+        },
+        {
+          "prompt": "Thinking Score: Is the candidate clear, structured, and practical rather than vague?",
+          "type": "linear_scale",
+          "required": true,
+          "score_enabled": true,
+          "score_domain": "Thinking",
+          "dimension_key": "Thinking",
+          "min": 1,
+          "max": 5
+        },
+        {
+          "prompt": "Baseline Skill Score: Is there enough baseline fit to continue?",
+          "type": "linear_scale",
+          "required": true,
+          "score_enabled": true,
+          "score_domain": "Skills",
+          "dimension_key": "Skills",
+          "min": 1,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "section_id": "closing",
+      "title": "4. Candidate Questions (2 min)",
+      "questions": [
+        {
+          "prompt": "What questions did the candidate ask regarding DIME?",
+          "type": "long_text",
+          "required": true
+        },
+        {
+          "prompt": "Interest Signal Score: Do their questions show real curiosity rather than surface-level interest?",
+          "type": "linear_scale",
+          "required": true,
+          "score_enabled": true,
+          "score_domain": "Belief",
+          "dimension_key": "Belief",
+          "min": 1,
+          "max": 5
+        }
+      ]
+    }
+  ],
+  "scales": {
+    "1": "Clear problem or misalignment",
+    "2": "Weak signal",
+    "3": "Acceptable but not strong",
+    "4": "Strong signal",
+    "5": "Clear and strong signal"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "schema_version": "1.1",
+  "template_id": "dime-personal-interview-1h-deep-playbook",
+  "template_name": "DIME 1-Hour Deep Interview (Playbook Version)",
+  "template_type": "personal",
+  "job_titles": ["All Roles"],
+  "stage": "Deep Interview",
+  "description": "Extended personal interview focusing on deep Ownership, Problem Solving, Learning, and Collaboration.",
+  "sections": [
+    {
+      "section_id": "ownership_and_failure",
+      "title": "1. Ownership in Action & Handling Failure",
+      "questions": [
+        {
+          "prompt": "Pick a strong example of something you owned. What exactly was your role?",
+          "type": "long_text",
+          "required": true
+        },
+        {
+          "prompt": "Where did things go wrong in that project, and what decisions did you make?",
+          "type": "long_text",
+          "required": true
+        },
+        {
+          "prompt": "Describe a real failure or difficult situation. How did you react in the moment, and what actions did you take?",
+          "type": "long_text",
+          "required": true
+        },
+        {
+          "prompt": "Ownership Score: Do they consistently take responsibility across stories, even when things are difficult?",
+          "type": "linear_scale",
+          "required": true,
+          "score_enabled": true,
+          "score_domain": "Ownership",
+          "dimension_key": "Ownership",
+          "min": 1,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "section_id": "thinking_and_problem_solving",
+      "title": "2. Thinking and Problem Solving",
+      "questions": [
+        {
+          "prompt": "(Provide a real or theoretical problem related to the role). How would you approach this problem?",
+          "type": "long_text",
+          "required": true
+        },
+        {
+          "prompt": "Follow the candidate's logic: Why did you choose this approach? What would you do first, and what would you ignore?",
+          "type": "long_text",
+          "required": true
+        },
+        {
+          "prompt": "Thinking Score: Do they structure their approach, prioritize actions, and remain clear under pressure?",
+          "type": "linear_scale",
+          "required": true,
+          "score_enabled": true,
+          "score_domain": "Thinking",
+          "dimension_key": "Thinking",
+          "min": 1,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "section_id": "learning_and_growth",
+      "title": "3. Learning and Growth",
+      "questions": [
+        {
+          "prompt": "How do you improve yourself? What did you learn recently, and how did it realistically change your work?",
+          "type": "long_text",
+          "required": true
+        },
+        {
+          "prompt": "Belief / Growth Score: Does the candidate show real effort in learning, or just intention/vague explanations?",
+          "type": "linear_scale",
+          "required": true,
+          "score_enabled": true,
+          "score_domain": "Belief",
+          "dimension_key": "Belief",
+          "min": 1,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "section_id": "collaboration_and_behavior",
+      "title": "4. Collaboration and Behavior",
+      "questions": [
+        {
+          "prompt": "Describe working with others, especially in difficult situations. How do you handle disagreement?",
+          "type": "long_text",
+          "required": true
+        },
+        {
+          "prompt": "Behavior Score: How does the candidate handle disagreement, communicate constraints, and respect peers?",
+          "type": "linear_scale",
+          "required": true,
+          "score_enabled": true,
+          "score_domain": "Behavior",
+          "dimension_key": "Behavior",
+          "min": 1,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "section_id": "closing",
+      "title": "5. Final Decision Alignment",
+      "questions": [
+        {
+          "prompt": "What concerns you about joining DIME? What kind of environment does not suit you?",
+          "type": "long_text",
+          "required": true
+        },
+        {
+          "prompt": "Overall Baseline Skills Score: Based on this deep interview, does the candidate have the practical skills needed or can they grow into them quickly?",
+          "type": "linear_scale",
+          "required": true,
+          "score_enabled": true,
+          "score_domain": "Skills",
+          "dimension_key": "Skills",
+          "min": 1,
+          "max": 5
+        }
+      ]
+    }
+  ],
+  "scales": {
+    "1": "Clear problem or misalignment",
+    "2": "Weak signal",
+    "3": "Acceptable but not strong",
+    "4": "Strong signal",
+    "5": "Clear and strong signal"
+  }
+}

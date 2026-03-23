@@ -1,0 +1,1124 @@
+--- Page 1 ---
+Hiring Playbook
+Section 1 — Purpose & Philosophy
+DIME Interview & Hiring Handbook
+1. Why This Exists
+Hiring at DIME is not about filling roles. It is about deciding who gets to build this company with us. Every person we bring 
+in will either make execution easier or harder, clearer or more confusing. Bad hiring doesn’t fail immediately; it shows up 
+over time in missed ownership, slow decisions, and growing friction inside the team. Good hiring does the opposite. It 
+raises the level of everyone around it. This handbook exists to keep our decisions consistent and intentional, especially 
+when things get busy.
+2. What We Care About
+When you speak to a candidate, don’t try to evaluate everything at once. Focus on a simple order. First, do they actually 
+care about what we’re building, or are they just looking for a job? Then, do they take responsibility, or do they wait for 
+direction? After that, look at how they think. Can they break down a problem clearly, or do they just speak in general terms? 
+Then notice their behavior — would working with them feel smooth or difficult? Only after that comes skills. Skills matter, 
+but they don’t come first.
+3. What We Don’t Compromise On
+There are things we don’t ignore, no matter how strong the candidate looks on paper. If someone keeps blaming others, 
+avoids responsibility, speaks in a disrespectful way, or gives generic answers without depth, we stop. The same applies if 
+they show no real interest in DIME itself. These signals don’t improve later. If anything, they become more visible with time.
+4. What “Good” Looks Like
+A strong candidate is usually easy to understand. They explain things clearly, give real examples instead of opinions, and 
+are comfortable talking about mistakes without trying to hide them. You can see how they think, not just what they say. 
+They ask questions that show curiosity, not just basic information. Most importantly, they feel real. You don’t need to guess 
+what they mean.
+5. What “Weak” Looks Like
+A weak candidate often sounds good at first but becomes unclear when you go deeper. They speak in general statements, 
+avoid specifics, or give answers that sound perfect but lack real situations behind them. They may talk a lot but say very 
+little. When asked about challenges or mistakes, they either shift responsibility or keep the story surface-level. Over time, 
+you start feeling that something is missing, even if you can’t name it immediately.
+6. Your Role as an Interviewer
+Your role is not to impress the candidate or to sell DIME. It is also not to fill the role as fast as possible. Your role is to 
+understand who is sitting in front of you. Try to answer three simple questions: would you trust this person with something 
+important, do they actually think or just speak well, and will they make the team stronger or heavier? If you stay focused on 
+these questions, your decisions will be much clearer.
+7. How to Decide
+At the end of the interview, keep the decision simple. If the person showed real ownership, gave clear and specific 
+answers, and you did not see major red flags, then it makes sense to move forward. If things felt vague, forced, or unclear, 
+or if you noticed weak ownership, then it’s better to stop early. Ignoring small doubts usually leads to bigger problems later.
+3/23/26, 6:42 PM Hiring Playbook - Coda
+https://coda.io/d/Hiring-Playbook_d0O6tfKoFmt/Hiring-Playbook_sudbwoIX#_lu3dmcNm 1/25
+--- Page 2 ---
+8. One Rule to Remember
+If you are unsure, don’t say yes. It is always easier to take more time than to fix a wrong hiring decision.
+9. Final Note
+DIME will not be built by the smartest people alone. It will be built by people who care about what they are doing, take 
+responsibility without being pushed, and keep moving things forward even when things are not perfect. That is what you 
+are looking for in every interview.
+Section 2 — Hiring Principles (Non-Negotiables)
+DIME Interview & Hiring Handbook
+1. How We Approach Hiring
+At DIME, hiring is not about finding the “best candidate on paper.” It is about finding the right person for how we work.
+We don’t assume that a strong CV means strong performance. We don’t assume confidence means competence. And we 
+don’t assume experience means ownership.
+Instead, we look for patterns in behavior. What someone has done repeatedly tells us more than what they say they can do.
+Every interview should feel like an attempt to understand the person, not to confirm a good impression.
+2. We Evaluate Behavior, Not Opinions
+Candidates will often give opinions about how they work, lead, or solve problems. That is not enough.
+What matters is what they have actually done.
+When a candidate says, “I’m good at handling pressure” or “I take ownership,” your job is to move the conversation to real 
+situations. Ask for examples. Ask what happened, what they did, and what the result was.
+If they cannot move from general اﻟﻜلامto a real story, that is a signal.
+At DIME, we trust actions more than statements.
+3. We Go One Layer Deeper
+Most interviews stay on the surface. We don’t.
+When a candidate gives an answer, don’t stop at the first layer. Ask simple follow-ups:
+What exactly was your role?
+What did you do when things went wrong?
+What would you do differently now?
+You are not trying to challenge the candidate. You are trying to see how real the answer is.
+Clear thinking becomes more visible the deeper you go. Weak answers usually break under simple follow-up questions.
+4. We Look for Patterns, Not One Good Answer
+One strong answer does not mean a strong candidate.
+People can prepare stories. They can rehearse answers. But it is very hard to fake consistency.
+Across the interview, pay attention to patterns:
+Do they consistently take ownership, or only in one story?
+ •
+ •
+ •
+ •
+3/23/26, 6:42 PM Hiring Playbook - Coda
+https://coda.io/d/Hiring-Playbook_d0O6tfKoFmt/Hiring-Playbook_sudbwoIX#_lu3dmcNm 2/25
+--- Page 3 ---
+Do they reflect and learn, or just describe events?
+Are they clear every time, or only once?
+Your decision should be based on repeated signals, not a single impressive moment.
+5. We Don’t Ignore Discomfort
+Sometimes, you won’t see a clear red flag, but something will feel off.
+Maybe the answers are technically correct but lack depth. Maybe the energy feels passive. Maybe there is a gap between 
+what they say and how they explain it.
+Don’t ignore that feeling.
+Pause and explore it. Ask another question. Go deeper into the same topic. Often, that small doubt is pointing to something 
+real.
+If the discomfort remains without a clear explanation, that is already a signal.
+6. We Separate Communication from Thinking
+Some candidates speak very well. They sound confident, structured, and convincing.
+That does not always mean they think clearly.
+Your job is to separate:
+how they speak
+from
+how they think
+To do that, slow them down. Ask them to break things into steps. Ask them to explain something simply. Ask for details.
+Strong thinkers become clearer when you go deeper. Weak thinkers become more vague.
+7. We Don’t Hire for Urgency
+There will be moments where you need to fill a role quickly. The pressure will be real.
+But hiring fast and hiring right are not the same.
+A wrong hire creates more delay than an empty seat.
+If a candidate is “almost good” but not clearly right, we wait. It is better to take longer than to fix a bad decision later.
+8. We Protect the Team, Not Just the Role
+When you evaluate someone, don’t only think about the role they will fill.
+Think about the team they will join.
+Will this person make collaboration easier or harder?
+Will they raise the level of thinking in the team?
+Will others trust working with them?
+A technically strong person who weakens the team is not a good hire.
+9. We Stay Honest in Both Directions
+Interviews are not one-sided.
+Just as we expect honesty from candidates, we should be honest about DIME.
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+3/23/26, 6:42 PM Hiring Playbook - Coda
+https://coda.io/d/Hiring-Playbook_d0O6tfKoFmt/Hiring-Playbook_sudbwoIX#_lu3dmcNm 3/25
+--- Page 4 ---
+Don’t present a perfect image. Share real challenges. Talk about ambiguity, pressure, and expectations.
+The goal is not to convince the candidate to join. The goal is to see if there is a real match.
+10. Final Principle
+If the decision is not a clear yes, it is a no.
+Not because the candidate is bad, but because the fit is not strong enough.
+At DIME, we are not collecting good people.
+We are building the right team.
+Section 3 — Hiring Scorecard System
+DIME Interview & Hiring Handbook
+1. Why We Use a Scorecard
+Interviews can easily turn into opinions. One person likes the candidate, another doesn’t, and the decision becomes 
+unclear.
+The scorecard exists to fix that.
+It gives every interviewer the same structure to think through the candidate. It keeps the conversation focused on 
+evidence, not impressions. It also makes sure we are evaluating what actually matters to DIME, not personal preferences.
+The goal is not to make hiring mechanical. The goal is to make it clear and consistent.
+2. What We Evaluate
+Every candidate is evaluated across five areas. These areas reflect how we work at DIME and what we need from people.
+We look first at belief. Does this person actually care about what we are building, or are they just looking for the next 
+opportunity? This is what drives commitment over time.
+Then we look at ownership. Do they take responsibility and move things forward, or do they wait for direction? This is what 
+drives execution.
+Then we look at how they think. Can they break down problems, explain clearly, and deal with ambiguity? This is what 
+drives good decisions.
+Then we look at behavior. How do they work with others? Do they listen, communicate clearly, and make the team easier to 
+work with?
+Finally, we look at skills. Can they do the job now, or can they grow into it quickly?
+This order matters. Skills alone are not enough.
+3. How We Score
+Each area is scored from 1 to 5.
+A score of 1 means there is a clear problem or misalignment. A score of 3 means the candidate is acceptable but not 
+strong. A score of 5 means the signal is clear and strong.
+The score should always be based on what you heard and observed, not what you assume.
+If you cannot justify the score with a real example from the interview, the score is not valid.
+4. What Strong Scores Look Like
+3/23/26, 6:42 PM Hiring Playbook - Coda
+https://coda.io/d/Hiring-Playbook_d0O6tfKoFmt/Hiring-Playbook_sudbwoIX#_lu3dmcNm 4/25
+--- Page 5 ---
+A high score in belief means the candidate speaks about the problem in a real and grounded way. You can see why it 
+matters to them.
+A high score in ownership means they give clear examples of taking responsibility, especially when things were not going 
+well.
+A high score in thinking means they can explain things simply, break problems into steps, and stay clear under follow-up 
+questions.
+A high score in behavior means they listen, respond thoughtfully, and show respect in how they speak about others.
+A high score in skills means they have either done similar work before or can clearly show how they would approach it.
+5. What Weak Scores Look Like
+Low scores usually show up as vagueness.
+In belief, it sounds like generic motivation without depth.
+In ownership, it shows as shared responsibility with no clear role.
+In thinking, it becomes unclear or messy when you go deeper.
+In behavior, it may show as ego, defensiveness, or lack of awareness.
+In skills, it appears as theory without practical understanding.
+Weak signals are often not loud. They appear as a lack of clarity.
+6. Red Flags Override the Score
+Even if a candidate scores well in some areas, certain signals override everything.
+If you see consistent blaming, lack of responsibility, disrespectful behavior, or clear lack of interest in DIME, you do not 
+move forward.
+The scorecard supports the decision, but it does not replace judgment.
+7. How to Use the Scorecard After the Interview
+Right after the interview, each interviewer should fill the scorecard individually.
+Do not discuss with others before writing your evaluation. This keeps the input independent.
+For each area, give a score and write one short reason based on what you observed.
+Then make a clear decision: move forward or not.
+Avoid long justifications. If the signal is not clear, that is already part of the answer.
+8. How Decisions Are Made
+When interviewers come together, the goal is not to debate opinions. The goal is to compare observations.
+Each person shares:
+their decision
+the strongest signal they saw
+the main concern they have
+If there is disagreement, go back to evidence. What exactly did the candidate say or do?
+If the decision is still unclear, we do not move forward.
+9. Final Rule
+The scorecard is there to guide thinking, not to force a decision.
+ •
+ •
+ •
+3/23/26, 6:42 PM Hiring Playbook - Coda
+https://coda.io/d/Hiring-Playbook_d0O6tfKoFmt/Hiring-Playbook_sudbwoIX#_lu3dmcNm 5/25
+--- Page 6 ---
+If the numbers look fine but your understanding of the candidate is still unclear, trust that.
+Clarity matters more than scores.
+Section 4 — Interview Process & Flow
+DIME Interview & Hiring Handbook
+1. Why the Process Matters
+Hiring should not depend on who is interviewing or how the day is going.
+The process exists to make sure every candidate goes through the same logic. It keeps things fair, reduces rushed 
+decisions, and helps us focus on the right signals at the right time.
+Each stage has a clear purpose. We don’t try to evaluate everything in one interview.
+2. Overview of the Hiring Flow
+At DIME, the hiring process is simple and structured.
+A candidate moves through four main steps:
+First interview (25 minutes)
+Deep interview (around 1 hour)
+Role-based case or simulation
+Final discussion and decision
+Not every candidate reaches all stages. Each step is a filter.
+We only invest more time when the signal is strong enough.
+3. Purpose of Each Stage
+The first interview is a quick filter. It is used to understand the person at a high level. We focus on belief, ownership, clarity, 
+and basic role fit. The goal is not to go deep. The goal is to decide if this person is worth a deeper conversation.
+The deep interview is where we understand behavior in detail. We explore real past situations, not opinions. We look for 
+patterns in how the candidate works, learns, and handles challenges.
+The case or simulation tests how the candidate thinks in practice. It shows how they approach real problems, not just how 
+they describe them.
+The final discussion is where we step back and decide. We bring all inputs together and make a clear decision based on 
+evidence.
+4. Who Is Responsible in Each Stage
+Each stage should have a clear owner.
+The first interview is usually led by People & Culture or the hiring manager. The goal here is consistency.
+The deep interview is led by the hiring manager or functional lead. This is where deeper judgment is required.
+The case or simulation is handled by someone from the function, or a small group, depending on the role.
+The final decision involves the hiring manager and relevant stakeholders, but it should stay focused and not become a long 
+debate.
+At every stage, each interviewer is responsible for writing their own evaluation before discussing with others.
+ •
+ •
+ •
+ •
+3/23/26, 6:42 PM Hiring Playbook - Coda
+https://coda.io/d/Hiring-Playbook_d0O6tfKoFmt/Hiring-Playbook_sudbwoIX#_lu3dmcNm 6/25
+--- Page 7 ---
+5. When a Candidate Moves Forward
+A candidate moves to the next stage only if the signal is clear enough.
+We are not looking for perfect answers. We are looking for strong indicators.
+If the candidate shows real ownership, clear thinking, and no major red flags, we move forward.
+If things feel average, unclear, or forced, we stop early.
+This keeps the pipeline clean and saves time for both sides.
+6. When We Stop the Process
+Stopping early is not a failure. It is part of the system.
+We stop when:
+answers are vague or inconsistent
+ownership is weak
+belief is not clear
+there are red flags in behavior
+It is better to stop after 25 minutes than to continue for hours with a weak signal.
+7. Keeping the Process Consistent
+Every interviewer should follow the same structure, even if their style is different.
+The goal is not to ask the exact same questions every time, but to reach the same understanding:
+who the person is
+how they think
+how they act
+Consistency in process leads to better decisions over time.
+8. Communication with Candidates
+We keep communication simple and respectful.
+If a candidate moves forward, we inform them clearly and quickly.
+If not, we close the process without delay. No long waiting or unclear status.
+The way we communicate reflects how we operate.
+9. Final Thought
+The process is not there to slow us down.
+It is there to protect us from rushed decisions.
+A clear process makes hiring faster in the long run, because we spend time only on the right candidates.
+Section 5 — 25-Minute First Interview Framework
+DIME Interview & Hiring Handbook
+1. Purpose of This Interview
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+3/23/26, 6:42 PM Hiring Playbook - Coda
+https://coda.io/d/Hiring-Playbook_d0O6tfKoFmt/Hiring-Playbook_sudbwoIX#_lu3dmcNm 7/25
+--- Page 8 ---
+This is a quick filter.
+You are not trying to fully evaluate the candidate.
+You are deciding one thing:
+Is this person worth a deeper 1-hour interview?
+Focus only on:
+belief
+ownership
+clarity of thinking
+basic role fit
+Nothing more.
+2. Time Structure (Stick to It)
+Keep the interview tight:
+First 3 minutes → opening
+Next 7 minutes → story and motivation
+Next 8 minutes → ownership and behavior
+Next 5 minutes → quick role question
+Last 2 minutes → candidate questions
+If you lose control of time, you lose clarity.
+3. How to Start
+Keep it simple. No long intro.
+Say something like:
+“This will be a short conversation to understand you better and see if we continue to a deeper discussion.”
+Then start immediately.
+4. What to Ask (Core Flow)
+Start with their story.
+Ask them to walk you through their journey briefly. You are not looking for details. You are looking for clarity and how they 
+explain themselves.
+Then move to motivation.
+Ask why they are interested in DIME specifically. If the answer is general, push once more and ask what exactly matters to 
+them about what we are building.
+Then test awareness.
+Ask what problem in their field or in healthcare they think is most important today. This shows how they think and what 
+they notice.
+5. Move to Ownership (Most Important Part)
+Ask for a real example of something they owned.
+Let them explain, then go deeper:
+what exactly was their role
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+3/23/26, 6:42 PM Hiring Playbook - Coda
+https://coda.io/d/Hiring-Playbook_d0O6tfKoFmt/Hiring-Playbook_sudbwoIX#_lu3dmcNm 8/25
+--- Page 9 ---
+what went wrong
+what they did when things got difficult
+Then ask about a mistake.
+Pay attention here. This is where real signals appear. You want to see if they take responsibility or shift it.
+6. Quick Role Signal
+Ask one simple question related to the role.
+Not a full case. Just a thinking check.
+You are looking for:
+structure
+clarity
+practicality
+If they jump into talking without thinking, or stay very general, that is a signal.
+7. Let Them Ask
+Give them space to ask one or two questions.
+This shows what they care about.
+Strong candidates ask about impact, challenges, or how things work.
+Weak candidates ask only basic or surface-level questions.
+8. What to Watch During the Interview
+Don’t just listen to answers. Watch how they answer.
+Notice:
+are they clear or confusing
+do they give real examples or general اﻟﻜلام
+do they take ownership or avoid it
+do they listen or just wait to speak
+Most signals come from how they speak, not just what they say.
+9. Common Mistakes to Avoid
+Do not:
+let the candidate talk for too long without direction
+ask too many questions
+turn it into a friendly chat
+try to evaluate everything
+Stay focused on the goal.
+10. After the Interview (2 Minutes Only)
+Right after the call, write your decision.
+Keep it simple:
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+3/23/26, 6:42 PM Hiring Playbook - Coda
+https://coda.io/d/Hiring-Playbook_d0O6tfKoFmt/Hiring-Playbook_sudbwoIX#_lu3dmcNm 9/25
+--- Page 10 ---
+proceed or not
+one strong signal
+one concern
+If you delay this step, you will forget the real signal.
+11. Decision Rule
+Move forward if:
+ownership is clear
+answers are specific
+no red flags
+Do not move forward if:
+answers are vague
+ownership is weak
+something feels off and unclear
+12. One Reminder
+You are not trying to find reasons to say yes.
+You are checking if there is a clear reason to continue.
+If not, stop early.
+Section 6 — Deep Interview (1-Hour Framework)
+DIME Interview & Hiring Handbook
+1. Purpose of This Interview
+This is where we truly understand the candidate.
+You are no longer filtering.
+You are validating in depth.
+At the end of this interview, you should be able to clearly answer:
+how this person behaves under real conditions
+how they think when things are not clear
+how they learn and respond to mistakes
+how they work with others
+If you still feel unsure after this stage, the signal is not strong enough.
+2. Structure of the Interview
+Keep the flow simple and controlled.
+Start with a short warm-up, then move into behavior, then thinking, then close.
+Do not jump randomly between topics.
+Let the conversation build step by step.
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+3/23/26, 6:42 PM Hiring Playbook - Coda
+https://coda.io/d/Hiring-Playbook_d0O6tfKoFmt/Hiring-Playbook_sudbwoIX#_lu3dmcNm 10/25
+--- Page 11 ---
+3. Go Through Real Situations, Not Opinions
+Everything in this interview should be based on real past experiences.
+If the candidate starts speaking in general terms, bring them back to a specific example.
+Always ask:
+what was the situation
+what did you do
+what happened after
+Stay grounded in reality.
+4. Ownership (Go Deep)
+Pick one or two strong examples and go deeper instead of asking many questions.
+When they describe something they owned, explore it fully:
+what was their exact responsibility
+where did things go wrong
+what decisions did they make
+what they would change now
+You are looking for consistency.
+Do they take responsibility even when things are difficult?
+5. Handling Failure and Pressure
+Ask about a real failure or a difficult situation.
+Then go deeper:
+how did they react in the moment
+what actions did they take
+what changed in their behavior after
+Watch carefully here.
+Strong candidates:
+are honest
+take responsibility
+show learning
+Weak candidates:
+avoid the question
+give safe answers
+shift responsibility
+6. Thinking and Problem Solving
+Now shift to how they think.
+Give them a situation or problem and let them walk through it.
+Don’t interrupt immediately. Let them structure their thoughts.
+Then ask:
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+3/23/26, 6:42 PM Hiring Playbook - Coda
+https://coda.io/d/Hiring-Playbook_d0O6tfKoFmt/Hiring-Playbook_sudbwoIX#_lu3dmcNm 11/25
+--- Page 12 ---
+why did you choose this approach
+what would you do first
+what would you ignore
+You are looking for:
+structure
+prioritization
+clarity
+Not perfect answers.
+7. Learning and Growth
+Ask how they improve themselves.
+Push for specifics:
+what did you learn recently
+how did it change your work
+Look for real effort, not just intention.
+People who grow can explain how they changed.
+People who don’t will stay general.
+8. Collaboration and Behavior
+Ask about working with others, especially in difficult situations.
+Focus on:
+how they communicate
+how they handle disagreement
+how they describe others
+You can learn a lot from how someone talks about people they worked with.
+9. What You Should Be Watching
+Across the whole interview, look for patterns.
+Not one good answer, but consistency.
+Ask yourself:
+are they clear every time, or only sometimes
+do they take ownership across different stories
+do they reflect and learn, or just describe events
+Patterns matter more than isolated answers.
+10. Common Mistakes to Avoid
+Do not:
+rush through many questions
+accept surface-level answers
+turn the interview into a discussion or debate
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+3/23/26, 6:42 PM Hiring Playbook - Coda
+https://coda.io/d/Hiring-Playbook_d0O6tfKoFmt/Hiring-Playbook_sudbwoIX#_lu3dmcNm 12/25
+--- Page 13 ---
+guide the candidate toward the “right answer”
+Your job is to observe, not to teach.
+11. Ending the Interview
+Give them a few minutes to ask questions.
+Listen carefully.
+Strong candidates will ask about real challenges, expectations, or how things work.
+This is another signal.
+12. After the Interview
+Take a few minutes to write your evaluation.
+Keep it simple:
+what was the strongest signal
+what concerns you
+your decision
+If you need to think too long, it usually means the signal was not clear.
+13. Final Rule
+At this stage, you should not feel uncertain.
+If you do, the answer is not yes.
+Section 7 — Role-Based Case & Simulation
+DIME Interview & Hiring Handbook
+1. Why This Stage Exists
+Up to this point, you’ve heard how the candidate talks about their experience.
+Now you test what they actually do.
+Some candidates interview very well.
+They sound clear, confident, and structured.
+But when faced with a real problem, they:
+lose structure
+miss priorities
+stay theoretical
+or move without thinking
+This stage removes that gap.
+It shows:
+how they think, decide, and act — in real time.
+2. What You Are Actually Testing
+You are not testing the “right answer.”
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+3/23/26, 6:42 PM Hiring Playbook - Coda
+https://coda.io/d/Hiring-Playbook_d0O6tfKoFmt/Hiring-Playbook_sudbwoIX#_lu3dmcNm 13/25
+--- Page 14 ---
+You are testing how they approach the problem.
+Focus on four things:
+how they define the problem
+how they structure their thinking
+how they prioritize
+how practical their approach is
+A simple answer with clear thinking is better than a complex answer with confusion.
+3. How to Run the Case
+Give a clear, simple scenario.
+Don’t over-explain.
+Let them sit with it for a moment.
+If they start speaking immediately without thinking, that is already a signal.
+Strong candidates usually:
+ask 1–2 clarifying questions
+define the problem in their own words
+then start step by step
+4. What a Strong Approach Looks Like
+A strong candidate will:
+First, pause and understand the problem.
+Then, define what matters:
+what are we trying to achieve
+what are the constraints
+Then, break the problem into steps.
+Then, prioritize what to do first.
+Then, explain why.
+They don’t rush.
+They don’t jump randomly.
+They don’t try to impress.
+They try to be clear.
+5. What a Weak Approach Looks Like
+A weak candidate will:
+jump directly into solutions
+speak in general ideas without steps
+ignore constraints
+keep talking without direction
+struggle when you ask “why”
+Or they give answers that sound good but are not practical.
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+3/23/26, 6:42 PM Hiring Playbook - Coda
+https://coda.io/d/Hiring-Playbook_d0O6tfKoFmt/Hiring-Playbook_sudbwoIX#_lu3dmcNm 14/25
+--- Page 15 ---
+6. Pressure Testing (Important)
+After they answer, don’t stop.
+Push slightly.
+Change something in the scenario:
+“What if this didn’t work?”
+“What if you only had half the time?”
+“What if the team disagreed?”
+Now watch:
+Do they adapt calmly?
+Or do they lose structure?
+This is where real thinking shows.
+7. Role-Based Case Design (How to Think About It)
+The case should feel close to real work at DIME.
+Not academic. Not abstract.
+For Product / Tech
+Give a situation around:
+feature adoption dropping
+system design trade-offs
+unclear user behavior
+You want to see:
+how they investigate
+how they prioritize
+how they think in systems
+For Growth / Business
+Give a situation around:
+acquiring users
+entering a new hospital
+low engagement
+You want to see:
+how they approach the market
+how practical they are
+how they sequence actions
+For People & Culture
+Give a situation around:
+hiring challenges
+internal conflict
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+3/23/26, 6:42 PM Hiring Playbook - Coda
+https://coda.io/d/Hiring-Playbook_d0O6tfKoFmt/Hiring-Playbook_sudbwoIX#_lu3dmcNm 15/25
+--- Page 16 ---
+performance issues
+You want to see:
+judgment
+fairness
+clarity in action
+8. How to Evaluate During the Case
+Don’t wait until the end.
+Watch in real time.
+Notice:
+do they structure before answering
+do they stay clear under follow-ups
+do they simplify or complicate
+do they focus on what matters
+You are observing thinking, not listening for keywords.
+9. Common Interviewer Mistakes
+Do not:
+guide them too much
+correct them during the case
+turn it into teaching
+look for your own answer
+Let them show how they think, even if it’s not perfect.
+10. Decision After the Case
+After this stage, your view should be clear.
+Ask yourself:
+can this person handle real problems at DIME?
+do they think in a structured way?
+do they stay clear under pressure?
+If the answer is not clearly yes, do not move forward.
+11. Final Standard
+This stage is where standards go up.
+A candidate who passed earlier stages but fails here
+should not move forward.
+Because at DIME:
+execution matters more than impression.
+Section 8 — Final Interview & Decision
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+3/23/26, 6:42 PM Hiring Playbook - Coda
+https://coda.io/d/Hiring-Playbook_d0O6tfKoFmt/Hiring-Playbook_sudbwoIX#_lu3dmcNm 16/25
+--- Page 17 ---
+DIME Interview & Hiring Handbook
+1. Purpose of This Stage
+This is not another interview.
+This is where we:
+confirm the final signal
+align across interviewers
+make a clear decision
+At this point, we already have enough data.
+The goal here is not to collect more information.
+The goal is to decide with clarity.
+2. Final Conversation with the Candidate
+If needed, we have a short final conversation.
+This is used to:
+clarify any remaining doubts
+test honesty and self-awareness
+confirm expectations
+Keep it direct.
+Ask things like:
+what concerns you about joining DIME?
+what kind of environment does not suit you?
+what would make you leave after 3 months?
+You are not testing performance here.
+You are testing awareness and honesty.
+3. Internal Decision Meeting
+Keep this short and structured.
+No long discussions.
+Each interviewer speaks one by one.
+Each person shares:
+their decision (Hire / No Hire)
+the strongest signal they saw
+the main concern
+That’s it.
+No long explanations.
+4. How to Handle Disagreement
+Disagreement is normal.
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+3/23/26, 6:42 PM Hiring Playbook - Coda
+https://coda.io/d/Hiring-Playbook_d0O6tfKoFmt/Hiring-Playbook_sudbwoIX#_lu3dmcNm 17/25
+--- Page 18 ---
+But we don’t resolve it with opinions.
+We go back to:
+what did the candidate actually say
+what did they actually do in the interview
+If someone cannot support their view with a clear example, it should not drive the decision.
+5. Decision Rule
+We only move forward if the signal is clear.
+Not “probably good.”
+Not “we can try.”
+Clear.
+If there is real hesitation from more than one interviewer, we stop.
+6. What We Prioritize in the Final Decision
+At this stage, the most important things are:
+ownership is clear and consistent
+thinking is structured and practical
+behavior is respectful and team-oriented
+no red flags appeared
+Skills matter, but they are not enough on their own.
+7. When to Say No
+We say no when:
+the signal is mixed or unclear
+different interview stages show inconsistency
+ownership is not strong enough
+something feels off and cannot be explained
+We do not move forward “just in case.”
+8. Speed of Decision
+Decisions should be made quickly after the final stage.
+Delays usually mean:
+uncertainty
+lack of clarity
+Both are signals.
+Make the decision while the interview is still fresh.
+9. Communicating the Decision
+Keep communication simple and respectful.
+If the candidate moves forward, inform them clearly and move fast.
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+ •
+3/23/26, 6:42 PM Hiring Playbook - Coda
+https://coda.io/d/Hiring-Playbook_d0O6tfKoFmt/Hiring-Playbook_sudbwoIX#_lu3dmcNm 18/25
+--- Page 19 ---
+If not, close the process without delay.
+No long waiting or unclear status.
+10. Final Standard
+At the end of the process, ask one question:
+Are we confident putting real responsibility in this person’s hands?
+If the answer is not a clear yes,
+then it is a no.
+11. Closing Thought
+Hiring is one of the few decisions that affect everything else.
+A good hire makes execution smoother.
+A wrong hire creates hidden friction everywhere.
+So we stay simple, clear, and honest in how we decide.
+Section 9 — Interviewer Guidelines
+DIME Interview & Hiring Handbook
+1. Your Role in the Interview
+Your role is not to run a conversation.
+Your role is to understand the person.
+You are trying to see:
+how they think
+how they act
+how real their answers are
+You are not there to impress them, help them, or fill the role quickly.
+If you stay focused on understanding, your questions will naturally improve.
+2. Ask for Real Examples, Not Opinions
+Candidates will often speak in general terms.
+When that happens, bring them back to reality.
+If they say, “I handle pressure well,” ask:
+“Tell me about a time that actually happened.”
+Always move from:
+what they say
+to
+what they did
+If they cannot give a clear example, treat that as a signal.
+3. Keep Questions Simple
+Don’t try to sound smart.
+ •
+ •
+ •
+ •
+ •
+3/23/26, 6:42 PM Hiring Playbook - Coda
+https://coda.io/d/Hiring-Playbook_d0O6tfKoFmt/Hiring-Playbook_sudbwoIX#_lu3dmcNm 19/25
+--- Page 20 ---
+Short, clear questions work better.
+Avoid long or complicated questions.
+They confuse the candidate and make evaluation harder.
+If the question is simple, the answer becomes easier to judge.
+4. Go One Step Deeper
+The first answer is rarely enough.
+After every answer, ask one follow-up.
+Examples:
+“What exactly was your role?”
+“What did you do next?”
+“Why did you choose that?”
+You don’t need many questions.
+You need deeper ones.
+5. Let Silence Work
+Don’t rush to fill silence.
+If the candidate pauses, let them think.
+Strong candidates use that time to structure their answer.
+Weak candidates become more unclear.
+Silence helps you see the difference.
+6. Don’t Lead the Candidate
+Avoid helping them reach a “better” answer.
+Don’t suggest ideas.
+Don’t complete their thoughts.
+If you guide too much, you are no longer evaluating them — you are co-creating the answer.
+Let them show their own thinking.
+7. Separate Confidence from Clarity
+Some candidates speak confidently but lack depth.
+Don’t confuse delivery with quality.
+To test this, slow them down:
+ask them to explain step by step
+ask them to simplify
+If they truly understand, they will become clearer.
+If not, the answer will break.
+8. Watch Behavior, Not Just Words
+Pay attention to how they speak, not just what they say.
+Notice:
+ •
+ •
+ •
+ •
+ •
+3/23/26, 6:42 PM Hiring Playbook - Coda
+https://coda.io/d/Hiring-Playbook_d0O6tfKoFmt/Hiring-Playbook_sudbwoIX#_lu3dmcNm 20/25
+--- Page 21 ---
+how they talk about past teammates
+how they describe failure
+how they react to follow-up questions
+Behavior shows through small details.
+9. Manage Time Actively
+Don’t let the interview drift.
+If a candidate talks too long, bring them back:
+“Let’s keep it short and move to the next part.”
+You don’t need more information.
+You need clear information.
+10. Don’t Try to Cover Everything
+Each interview has a purpose.
+Stick to it.
+Trying to evaluate everything in one conversation leads to shallow understanding.
+Trust the process.
+11. Write Your Evaluation Immediately
+After the interview, take a few minutes to write your evaluation.
+Do it before speaking to others.
+This keeps your judgment independent and more accurate.
+If you wait, your memory will adjust based on others’ opinions.
+12. Avoid Common Biases
+Be aware of simple traps:
+liking someone because they are similar to you
+being influenced by one strong answer
+judging based on communication style only
+Stay focused on evidence.
+13. If You’re Unsure
+If you cannot clearly explain why the candidate is strong,
+then the signal is not strong.
+Uncertainty is a result, not something to ignore.
+14. Final Reminder
+A good interviewer is not the one who asks many questions.
+It’s the one who understands clearly what they heard.
+Section 10 — Templates & Scorecards
+ •
+ •
+ •
+ •
+ •
+ •
+3/23/26, 6:42 PM Hiring Playbook - Coda
+https://coda.io/d/Hiring-Playbook_d0O6tfKoFmt/Hiring-Playbook_sudbwoIX#_lu3dmcNm 21/25
+--- Page 22 ---
+DIME Interview & Hiring Handbook
+Template 1 — 25-Min Interview Evaluation
+Use right after the first interview (2–3 minutes max)
+Candidate Name:
+Role:
+Interviewer:
+Date:
+Quick Scores (1–5)
+Belief (cares about DIME):
+Ownership (takes responsibility):
+Thinking (clear vs vague):
+Communication (simple vs confusing):
+Role Baseline (basic fit):
+Signals
+Strongest signal (1 line):
+Main concern (1 line):
+Decision
+Proceed to deep interview: Yes / No
+Confidence level: High / Medium / Low
+Template 2 — Deep Interview Evaluation (1-Hour)
+Use after Section 6 interview
+Candidate Name:
+Role:
+Interviewer:
+Date:
+Dimension Scores (1–5)
+Belief:
+Ownership:
+Learning & Growth:
+Collaboration:
+Thinking:
+Role Competence:
+Key Observations
+Strongest example observed:
+Biggest concern:
+Consistency across answers: Strong / Mixed / Weak
+Behavior Check
+3/23/26, 6:42 PM Hiring Playbook - Coda
+https://coda.io/d/Hiring-Playbook_d0O6tfKoFmt/Hiring-Playbook_sudbwoIX#_lu3dmcNm 22/25
+--- Page 23 ---
+Takes responsibility: Yes / No
+Clear under pressure: Yes / No
+Reflective (learns from mistakes): Yes / No
+Decision
+Move to case stage: Yes / No
+Notes (max 3 lines):
+Template 3 — Case / Simulation Evaluation
+Use after Section 7
+Candidate Name:
+Role:
+Interviewer(s):
+Date:
+Evaluation (1–5)
+Problem understanding:
+Structure of thinking:
+Prioritization:
+Practicality:
+Adaptability under pressure:
+Observed Behavior
+Asked clarifying questions: Yes / No
+Jumped to solution too early: Yes / No
+Stayed clear under challenge: Yes / No
+Summary
+What stood out:
+Where they struggled:
+Decision
+Pass case stage: Yes / No
+Template 4 — Final Decision Sheet
+Used in decision meeting
+Candidate Name:
+Role:
+Date:
+Inputs from Interviewers
+Interviewer Decision Strong Signal Concern
+Table 1
+3/23/26, 6:42 PM Hiring Playbook - Coda
+https://coda.io/d/Hiring-Playbook_d0O6tfKoFmt/Hiring-Playbook_sudbwoIX#_lu3dmcNm 23/25
+--- Page 24 ---
+Final Evaluation
+Belief: Strong / Moderate / Weak
+Ownership: Strong / Moderate / Weak
+Thinking: Strong / Moderate / Weak
+Behavior: Strong / Moderate / Weak
+Skills: Strong / Moderate / Weak
+Final Decision
+Hire / No Hire
+Reason (max 3 lines):
+Template 5 — Red Flag Report (If Needed)
+Used when something feels off
+Candidate Name:
+Interviewer:
+Stage:
+Observed Issue
+(Describe clearly what happened)
+Why It Matters
+(What this indicates about behavior or mindset)
+Decision Impact
+Proceed / Stop
+Template 6 — Interview Feedback to Team (Optional Internal)
+Used for alignment and learning
+Candidate Name:
+Role:
+What Good Looked Like in This Candidate
+(2–3 short points)
+What Was Missing
+  
+  
+  
+3/23/26, 6:42 PM Hiring Playbook - Coda
+https://coda.io/d/Hiring-Playbook_d0O6tfKoFmt/Hiring-Playbook_sudbwoIX#_lu3dmcNm 24/25
+--- Page 25 ---
+(2–3 short points)
+Hiring Decision
+Hire / No Hire
+How to Use These Templates
+Fill them immediately after each stage
+Keep answers short and specific
+Do not leave sections empty
+Do not overthink scoring
+The goal is clarity, not perfection.
+Final Note
+A simple system used consistently
+is better than a complex system ignored.
+ •
+ •
+ •
+ •
+3/23/26, 6:42 PM Hiring Playbook - Coda
+https://coda.io/d/Hiring-Playbook_d0O6tfKoFmt/Hiring-Playbook_sudbwoIX#_lu3dmcNm 25/25
