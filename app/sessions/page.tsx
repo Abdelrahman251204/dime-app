@@ -52,9 +52,10 @@ const SessionsPage = () => {
          status: 'In Progress',
          score_total: 0
       });
-      const sessionId = res.data[0].id;
+      const sessionId = res.data?.[0]?.id;
+      if (!sessionId) throw new Error("Failed to get session ID");
       toast.success("Interview Session Created");
-      router.push(`/sessions/${sessionId}`);
+      router.push(`/sessions/evaluate?id=${sessionId}`);
     } catch (err) {
       toast.error('Failed to create session');
     }
@@ -138,7 +139,7 @@ const SessionsPage = () => {
                       const cand = candidates.find(c => c.id === session.candidate_id);
                       const tpl = templates.find(t => t.id === session.template_id);
                       return (
-                        <div key={session.id} className="bg-white dark:bg-[#111113] border border-blue-100 dark:border-blue-900/50 p-4 rounded-xl flex items-center justify-between shadow-sm hover:shadow-md transition-all group cursor-pointer hover:border-blue-300 dark:hover:border-blue-700 overflow-hidden relative" onClick={() => router.push(`/sessions/${session.id}`)}>
+                        <div key={session.id} className="bg-white dark:bg-[#111113] border border-blue-100 dark:border-blue-900/50 p-4 rounded-xl flex items-center justify-between shadow-sm hover:shadow-md transition-all group cursor-pointer hover:border-blue-300 dark:hover:border-blue-700 overflow-hidden relative" onClick={() => router.push(`/sessions/evaluate?id=${session.id}`)}>
                            {/* Decorative accent */}
                            <div className="absolute left-0 top-0 bottom-0 w-1 bg-blue-500" />
                            
@@ -188,7 +189,7 @@ const SessionsPage = () => {
                       {completedSessions.slice(0, 5).map(session => {
                         const cand = candidates.find(c => c.id === session.candidate_id);
                         return (
-                          <div key={session.id} className="pt-4 first:pt-0 flex items-center justify-between group cursor-pointer" onClick={() => router.push(`/sessions/${session.id}`)}>
+                          <div key={session.id} className="pt-4 first:pt-0 flex items-center justify-between group cursor-pointer" onClick={() => router.push(`/sessions/evaluate?id=${session.id}`)}>
                              <div>
                                <p className="font-bold text-sm text-slate-900 dark:text-white capitalize">{cand?.name}</p>
                                <p className="text-[10px] uppercase font-bold text-slate-400 mt-1">{new Date(session.created_at).toLocaleDateString()}</p>

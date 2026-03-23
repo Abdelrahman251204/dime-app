@@ -6,10 +6,13 @@ import { ApiService } from '@/lib/api';
 import { toast } from 'sonner';
 import DashboardLayout from '@/components/layout/DashboardLayout';
 import { ChevronLeft, User, Calendar, Briefcase, BarChart2, Flag, FileText, CheckCircle2, ChevronRight } from 'lucide-react';
+import { useSearchParams } from 'next/navigation';
+import { Suspense } from 'react';
 
-export default function CandidateSummaryPage({ params }: { params: Promise<{ id: string }> }) {
+function CandidateSummaryPage() {
   const router = useRouter();
-  const { id } = React.use(params);
+  const searchParams = useSearchParams();
+  const id = searchParams.get('id');
   
   const [candidate, setCandidate] = useState<any>(null);
   const [sessions, setSessions] = useState<any[]>([]);
@@ -229,7 +232,7 @@ export default function CandidateSummaryPage({ params }: { params: Promise<{ id:
                        return (
                           <div 
                              key={session.id} 
-                             onClick={() => router.push(`/sessions/${session.id}`)}
+                             onClick={() => router.push(`/sessions/evaluate?id=${session.id}`)}
                              className="bg-white dark:bg-[#111113] p-6 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-sm hover:border-blue-300 dark:hover:border-blue-700/50 transition-colors cursor-pointer group flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4"
                           >
                              <div className="flex-1">
@@ -280,5 +283,13 @@ export default function CandidateSummaryPage({ params }: { params: Promise<{ id:
 
       </div>
     </DashboardLayout>
+  );
+}
+
+export default function Page() {
+  return (
+    <Suspense fallback={<div className="p-12 text-center text-slate-400">Loading Candidate Profile...</div>}>
+      <CandidateSummaryPage />
+    </Suspense>
   );
 }

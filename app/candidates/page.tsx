@@ -180,7 +180,7 @@ const CandidatesPage = () => {
                    return (
                      <tr 
                        key={c.id} 
-                       onClick={() => router.push(`/candidates/${c.id}`)}
+                       onClick={() => router.push(`/candidates/profile?id=${c.id}`)}
                        className="hover:bg-slate-50/50 dark:hover:bg-slate-800/30 transition-colors group cursor-pointer"
                      >
                        <td className="px-6 py-4">

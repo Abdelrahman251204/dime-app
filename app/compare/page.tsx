@@ -39,7 +39,7 @@ const ComparePage = () => {
       setCompletedSessions(completed);
       setTemplates(tplRes.data || []);
       
-      if (jobsRes.data?.length > 0) {
+      if (jobsRes.data && jobsRes.data.length > 0) {
          setSelectedJobId(jobsRes.data[0].id);
       }
     } catch (e) {
@@ -195,7 +195,7 @@ const ComparePage = () => {
                      </div>
 
                      <button 
-                         onClick={() => router.push(`/candidates/${c.id}`)}
+                         onClick={() => router.push(`/candidates/profile?id=${c.id}`)}
                          className="w-full mt-auto py-3 bg-white dark:bg-[#111113] border border-slate-200 dark:border-slate-700 hover:bg-slate-50 dark:hover:bg-slate-900 rounded-xl font-bold text-sm transition-colors text-slate-700 dark:text-slate-300 shadow-sm active:scale-95"
                      >
                         View Full Report

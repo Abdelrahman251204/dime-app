@@ -49,7 +49,8 @@ const PipelinesPage = () => {
         title: formData.title,
         department: formData.department
       });
-      const newJobId = jobRes.data[0].id;
+      const newJobId = jobRes.data?.[0]?.id;
+      if (!newJobId) throw new Error("Failed to get job ID");
 
       // 2. Create Pipeline associated with Job
       await ApiService.createPipeline({

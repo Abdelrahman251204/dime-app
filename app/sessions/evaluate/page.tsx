@@ -1,14 +1,16 @@
 "use client";
 
 import React, { useState, useEffect, useRef } from 'react';
-import { useRouter } from 'next/navigation';
+import { useRouter, useSearchParams } from 'next/navigation';
 import { ApiService } from '@/lib/api';
 import { toast } from 'sonner';
 import { ChevronLeft, Flag, CheckCircle2, ChevronRight, Calculator, Check, AlertCircle } from 'lucide-react';
+import { Suspense } from 'react';
 
-export default function InterviewSessionWorkspace({ params }: { params: Promise<{ id: string }> }) {
+function InterviewSessionWorkspace() {
   const router = useRouter();
-  const { id } = React.use(params);
+  const searchParams = useSearchParams();
+  const id = searchParams.get('id');
   const [session, setSession] = useState<any>(null);
   const [candidate, setCandidate] = useState<any>(null);
   const [template, setTemplate] = useState<any>(null);
@@ -69,7 +71,7 @@ export default function InterviewSessionWorkspace({ params }: { params: Promise<
   };
 
   const calculateScores = () => {
-     if (!template) return { total: 0, max: 0, sections: {}, domains: {} as Record<string, number> };
+     if (!template) return { total: 0, percentage: 0, max: 0, sections: {} as Record<string, number>, domains: {} as Record<string, number> };
      
      let totalScore = 0;
      let totalMax = 0;
@@ -462,5 +464,13 @@ export default function InterviewSessionWorkspace({ params }: { params: Promise<
          </div>
       )}
     </div>
+  );
+}
+
+export default function Page() {
+  return (
+    <Suspense fallback={<div className="p-12 text-center">Loading Interview Workspace...</div>}>
+      <InterviewSessionWorkspace />
+    </Suspense>
   );
 }

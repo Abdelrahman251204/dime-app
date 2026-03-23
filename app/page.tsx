@@ -123,7 +123,7 @@ export default function Home() {
                            {activeInterviews.map((session) => {
                               const cand = candidates.find(c => c.id === session.candidate_id);
                               return (
-                                 <div key={session.id} onClick={() => router.push(`/sessions/${session.id}`)} className="flex items-center justify-between p-4 rounded-xl border border-slate-100 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-900/40 hover:border-blue-300 dark:hover:border-blue-700 cursor-pointer transition-all group">
+                                 <div key={session.id} onClick={() => router.push(`/sessions/evaluate?id=${session.id}`)} className="flex items-center justify-between p-4 rounded-xl border border-slate-100 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-900/40 hover:border-blue-300 dark:hover:border-blue-700 cursor-pointer transition-all group">
                                     <div className="flex items-center space-x-4">
                                        <div className="w-10 h-10 rounded-full bg-blue-100 text-blue-600 dark:bg-blue-900/30 dark:text-blue-400 flex items-center justify-center font-bold">
                                          {cand?.name?.charAt(0) || '?'}
@@ -163,7 +163,7 @@ export default function Home() {
                            {recentSessions.map((session, i) => {
                              const cand = candidates.find(c => c.id === session.candidate_id);
                              return (
-                               <div key={session.id} className="flex justify-between items-center group cursor-pointer" onClick={() => router.push(`/sessions/${session.id}`)}>
+                               <div key={session.id} className="flex justify-between items-center group cursor-pointer" onClick={() => router.push(`/sessions/evaluate?id=${session.id}`)}>
                                  <div>
                                     <p className="font-bold text-sm text-slate-900 dark:text-white capitalize group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">{cand?.name || 'Unknown'}</p>
                                     <p className="text-[10px] font-black uppercase tracking-widest text-slate-400 mt-1">{new Date(session.created_at).toLocaleDateString()}</p>
